@@ -1,4 +1,5 @@
-# Sistema de Gestión de Residuos Sólidos
+# Solid Waste Collection Manager (SWCM)
+Sistema de Gestión de Residuos Sólidos
 
 Este proyecto desarrolla un sistema para mejorar la recolección y reciclaje de residuos urbanos. Incluye:
 
