@@ -1,4 +1,4 @@
-# Solid Waste Collection Manager (SWCM)
+# Solid Waste Management System (SWMS)
 Sistema de Gestión de Residuos Sólidos
 
 Este proyecto desarrolla un sistema para mejorar la recolección y reciclaje de residuos urbanos. Incluye:
@@ -10,4 +10,4 @@ Este proyecto desarrolla un sistema para mejorar la recolección y reciclaje de 
 - **Integración de Sistemas**: Se integra con sistemas existentes como GIS.
 
 ## Autor
-Johns-mx: [text](https://www.linkedin.com/in/johns-mx-dev/)
+Johns-mx: [Linkedin](https://www.linkedin.com/in/johns-mx-dev/)
